@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cbb9bea-2037-406e-a5cb-140288e8004d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayManupulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dog.java" afterDir="false" />
+    <list default="true" id="7cbb9bea-2037-406e-a5cb-140288e8004d" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/src/ArrayManipulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeMainClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AWonderfulRunnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AWonderfulRunnerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayManupulator.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.LeMainClass">
     <configuration name="AWonderfulRunnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AWonderfulRunnerClass" />
       <module name="U6T1Rafid" />
@@ -46,8 +46,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LeMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeMainClass" />
+      <module name="U6T1Rafid" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeMainClass" />
         <item itemvalue="Application.AWonderfulRunnerClass" />
       </list>
     </recent_temporary>
@@ -61,6 +69,14 @@
       <option name="presentableId" value="Default" />
       <updated>1672937697135</updated>
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1672965988280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672965988281</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
