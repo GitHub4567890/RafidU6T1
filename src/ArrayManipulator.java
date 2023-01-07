@@ -28,10 +28,10 @@ public class ArrayManipulator {
      */
     public int getNumsMiddleIndex()
     {
-        double numsLen = nums.length;
-        double numsMiddle = numsLen / 2;
-        numsMiddle -= 0.5;
-        numsMiddle = Math.round(numsMiddle);
+        double numsMiddle = nums.length / 2;
+        if (nums.length % 2 == 0) {
+            numsMiddle -= 0.5;
+        }
         return (int) numsMiddle;
     }
 
@@ -44,7 +44,7 @@ public class ArrayManipulator {
      */
     public double getNumsAverage()
     {
-        return ((double) nums[0] / nums[getNumsMiddleIndex()] / nums[nums.length - 1]);
+        return ((double) nums[0] + nums[getNumsMiddleIndex()] + nums[nums.length - 1]) / 3;
     }
 
 
